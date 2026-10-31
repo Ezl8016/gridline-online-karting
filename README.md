@@ -59,9 +59,17 @@ the latest version.
 
 ## The desktop app
 
-**The app downloads under Releases don't work right now,** because they still
-open the game's old address. Please use the browser link above until this note
-is gone. Your account, lap times and purchases are all safe.
+Get the latest version from **[Releases](https://github.com/Ezl8016/gridline-online-karting/releases/latest)**.
+Your account, lap times and purchases stay the same as in the browser.
+
+- **Mac** (Intel and Apple Silicon): download the `.dmg`, open it and drag the
+  app into Applications. If macOS offers to move it to the Trash, click **Done**,
+  then go to System Settings → Privacy & Security → **Open Anyway**.
+- **Windows** (64-bit): download the `.exe` and run it. On "Windows protected
+  your PC", click **More info** → **Run anyway**.
+
+If you have version 1.0.2 or older, it opens a "page not found" screen. Install
+the latest version over it.
 
 ## Controls
 
