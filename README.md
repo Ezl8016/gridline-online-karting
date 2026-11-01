@@ -20,7 +20,7 @@ and join the weekly championship.
 - **The Garage:** paint your kart, design your helmet and suit, and pick the
   music you hear on track.
 - **The Shop:** spend the points you earn by driving on monthly skin sets and on
-  music by The Marlo Boys and Adam Holt. You can preview a song first.
+  music by The Marlow Boys and Adam Holt. You can preview a song first.
 - **Time of day and weather:** afternoon, evening, overcast or night under the
   floodlights, dry or in the rain.
 - **The clubhouse:** get out of your kart and walk around it with your friends.
