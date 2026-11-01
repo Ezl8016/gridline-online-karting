@@ -12,7 +12,8 @@ and join the weekly championship.
 
 - **Four layouts**, each clockwise or counter-clockwise: Tidal Turns, Cadet 206
   Practice, Karting Coastal and the Biloxi Fall Fling.
-- **Four karts:** the rental R25, the LO206, the Vintage Kart and the KA100.
+- **Five karts:** the rental R25, the LO206, the Vintage Kart, the KA100 and the
+  KZ125 Shifter, with a six-speed gearbox you shift yourself.
 - **Online multiplayer:** up to 11 drivers on a server, with qualifying, races,
   AI drivers to fill the grid and voice chat.
 - **Fastest Drivers:** worldwide lap time boards for every layout.
@@ -78,6 +79,7 @@ the latest version over it.
 | Throttle | W / ↑ | RT |
 | Brake | S / ↓ / Space | LT |
 | Steer | A D / ← → | Left stick |
+| Shift up / down (KZ125) | E / Q | D-pad up / down |
 | Camera | C | Y |
 | Turn kart around | F | X |
 | Reset to track | R | B |
